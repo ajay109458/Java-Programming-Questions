@@ -7,3 +7,5 @@
 * [Advanced OOPS concepts](AdvancedObjectOrientedConcepts.md)
 * [Exceptions](Exceptions.md)
 * [Modifiers](Modifiers.md)
+* [Miscellaneous](Miscellaneous.md)
+

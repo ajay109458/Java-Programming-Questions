@@ -8,4 +8,5 @@
 * [Exceptions](Exceptions.md)
 * [Modifiers](Modifiers.md)
 * [Miscellaneous](Miscellaneous.md)
+* [Collections](Collections.md)
 
